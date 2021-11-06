@@ -17,6 +17,9 @@ It is a lightweight terminal emulator library.
 ## Demo
 The [website](https://wt.sany.one) has a simple demonstration of using **wt**.
 
+## Installation
+**wt** can be installed via npm. Simply run `npm i wterminal`
+
 ## API documentation & usage
 You can read the API documentation [here](API.md).
 
@@ -26,6 +29,6 @@ For usage examples, [click here](USAGE.md).
 Thank you! If you want to support this project, [click here](SUPPORT.md).
 
 ## License
-The entire project is licensed with [GNU GPLv3](LICENSE).
+The entire project is licensed with [GPL-3.0](LICENSE).
 
 Fonts that were used ([Zen Kurenaido](fonts/zen-kurenaido) and [Inconsolata](fonts/Inconsolata)) are licensed with OFL-1.1.
