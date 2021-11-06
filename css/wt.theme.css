@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Inconsolata';
+  src: url('../fonts/Inconsolata/Inconsolata-Regular.ttf') format('truetype');
+}
+
+.wt {
+  --color-scheme: dark;
+  --font-size: 16px;
+  --font-family: 'Inconsolata', monospace;
+  --text-color: #fff;
+  --bg-color: #000;
+  --padding: 10px;
+  --input-width: 100%;
+  --input-border: none;
+  --input-outline: none;
+  --input-box-sizing: border-box;
+  --input-placeholder-color: #ccc;
+  --output-max-height: 500px;
+  --output-margin: 0 0 5px 0;
+  --output-overflow: auto;
+  --selection-text-color: #000;
+  --selection-bg-color: #fff;
+}
