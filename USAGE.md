@@ -2,9 +2,9 @@
 First, you want to include these in your HTML `<head>`:
 
 ```html
-<link rel='stylesheet' href='https://wt.sany.one/css/wt.min.css' />
+<link rel='stylesheet' href='https://often.github.io/wt/css/wt.min.css' />
 <script type='module'>
-   import { WT } from 'https://wt.sany.one/js/wt.min.js'
+   import { WT } from 'https://often.github.io/wt/js/wt.min.js'
    
    const wt = WT({
       element: document.querySelector('.wt'),
