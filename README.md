@@ -1,4 +1,4 @@
-# [wt](https://wt.sany.one)
+# [wt](https://often.github.io/wt/)
 Terminal emulator, made for the web.
 
 ## Introduction
@@ -15,7 +15,7 @@ It is a lightweight terminal emulator library.
 - [x] Infinite possibilities!
 
 ## Demo
-The [website](https://wt.sany.one) has a simple demonstration of using **wt**.
+The [website](https://often.github.io/wt/) has a simple demonstration of using **wt**.
 
 ## Installation
 **wt** can be installed via npm. Simply run `npm i wterminal`
@@ -24,9 +24,6 @@ The [website](https://wt.sany.one) has a simple demonstration of using **wt**.
 You can read the API documentation [here](API.md).
 
 For usage examples, [click here](USAGE.md).
-
-## Like my work?
-Thank you! If you want to support this project, [click here](SUPPORT.md).
 
 ## License
 The entire project is licensed with [GPL-3.0](LICENSE).
